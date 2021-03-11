@@ -1,0 +1,13 @@
+声明:
+  1.以下接口由阿里妈妈RAP2开放平台提供服务
+  2.只用作数据模拟测试用途
+  3.不能满足业务需求的可以自行上RAP2在线平台进行创建接口
+  4.有想补充自己觉得有需要的接口可以将请求参数和mock参数提到issues
+  5.不断更新...
+
+
+1.用户信息相关接口地址
+  http://rap2api.taobao.org/export/markdown?id=279032&origin=http://rap2.taobao.org
+  
+2.树结构数据相关接口地址
+  http://rap2api.taobao.org/export/markdown?id=279032&origin=http://rap2.taobao.org
